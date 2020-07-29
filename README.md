@@ -7,6 +7,8 @@
 ```bash
 $ go get -u github.com/thmhoag/urlbyter/cmd/urlbyter
 ```
+>**NOTE:** Only tested on Golang 1.14.4
+
 
 ## Getting started
 For a list of commands, you can start with `urlbyter --help`. 
