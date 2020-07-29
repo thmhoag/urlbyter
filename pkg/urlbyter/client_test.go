@@ -62,12 +62,12 @@ func TestClient_GetBytesForURL(t *testing.T) {
 		{
 			path: "./test/microsoft_365_test.html",
 			url: "https://www.microsoft.com/en-us/microsoft-365",
-			expected: "177.2 kB",
+			expected: "176.2 kB",
 		},
 		{
 			path: "./test/microsoft_enus_test.html",
 			url: "https://www.microsoft.com/en-us/",
-			expected: "199.2 kB",
+			expected: "197.7 kB",
 		},
 		{
 			path: "./test/microsoft_test.html",
